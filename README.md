@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# UR Card
 
-## Getting Started
+**UR card** is a modern, sleek alternative to traditional ID cards. Designed for the next generation of professionals, creators, and event organizers, UR card brings style, flexibility, and identity to every occasion.
 
-First, run the development server:
+> **More than an ID. It’s UR identity.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Customizable Designs** — Tailor your card for office, concerts, conferences, or networking events.  
+- **Modern Look** — Clean and bold visuals that break the mold of traditional ID cards.  
+- **All-in-One Utility** — One card for all purposes: corporate, entertainment, tech, or personal use.  
+- **Brand Identity** — Your card is more than access—it represents who you are.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Use Cases
 
-To learn more about Next.js, take a look at the following resources:
+- Office/Company ID  
+- Event Pass or Badge  
+- Digital Business Card  
+- Creator or Freelancer Identity Card  
+- Portfolio Add-on  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Project Assets
 
-## Deploy on Vercel
+| Asset           | Description              | File/Link                        |
+|-----------------|--------------------------|----------------------------------|
+| Logo            | Primary UR card logo     | `./logo.png`                     |
+| Tagline Banner  | "More than an ID..."     | `./tagline-banner.png`          |
+| LinkedIn Cover  | Company page header      | `./linkedin-cover.png`          |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Tagline
+
+**More than an ID. It’s UR identity.**
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## Contact
+
+For collaborations, business inquiries, or to use UR card for your brand/event, feel free to reach out:
+
+- Email: `your-email@example.com`  
+- LinkedIn: [https://linkedin.com/company/urcard](https://linkedin.com/company/urcard)
