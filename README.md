@@ -5,7 +5,6 @@
 > **More than an ID. It’s UR identity.**
 
 ---
-
 ## Features
 
 - **Customizable Designs** — Tailor your card for office, concerts, conferences, or networking events.  
